@@ -1,0 +1,436 @@
+* {
+    padding: 0px;
+    margin: 0px;
+
+}
+
+.header {
+    height: 133px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.heading_img {
+    width: auto;
+    height: 37px;
+    padding-left: 60px;
+
+
+}
+
+.li_div {
+    display: flex;
+    padding-right: 61px;
+}
+
+.li_ {
+    list-style-type: none;
+    font-family: New York Small;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 34px;
+    letter-spacing: 0.12em;
+    text-align: center;
+    margin-left: 7px;
+    margin-right: 7px;
+
+
+}
+
+.heading_div {
+    justify-content: center;
+    text-align: center;
+
+
+}
+
+.heading {
+    padding-top: 50px;
+    font-family: New York Extra Large;
+    font-size: 54px;
+    font-weight: 700;
+    line-height: 54px;
+    width: 50%;
+    margin: 0px auto;
+
+}
+
+.text {
+    font-family: SF Mono;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 34px;
+    padding-top: 32px;
+
+}
+
+.full_img {
+    width: 100%;
+    height: 900px;
+    padding-top: 52px;
+}
+
+.hr_line_first {
+    height: 2px;
+    background-color: #000000;
+    width: 100%;
+    margin-top: 32px;
+    margin-bottom: 24px;
+}
+
+.text_div {
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    margin: 0px auto;
+}
+
+.second_div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.btn_small {
+    width: 70px;
+    height: 44px;
+    border: none;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.08);
+
+}
+
+
+.profile_img {
+    border-radius: 50%;
+    height: 57px;
+    width: 57px;
+}
+
+.profile_name {
+    font-family: SF Pro Text;
+    font-size: 16px;
+    font-weight: 700;
+
+}
+
+.profile_date {
+    font-family: SF Pro Text;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.span {
+    padding-left: 16px;
+}
+
+.para_one {
+    padding-top: 52px;
+    font-family: New York Medium;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: left;
+
+}
+
+.text_heading {
+    padding-top: 57px;
+    font-family: SF Pro Display;
+    font-size: 32px;
+    font-weight: 700;
+    text-align: left;
+
+}
+
+.para_second {
+    padding-top: 24px;
+    font-family: New York Medium;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: left;
+
+}
+
+.devil_img {
+    height: 570px;
+    width: 100%;
+}
+
+.para_three {
+    padding-top: 12px;
+    font-family: SF Pro Text;
+    font-size: 16px;
+    font-weight: 500;
+    text-align: center;
+
+}
+
+.SECOND_DIV {
+    text-align: justify;
+    width: 40%;
+    justify-content: center;
+    align-items: center;
+    margin: 0px auto;
+}
+
+.para_four {
+    padding-top: 52px;
+    font-family: New York Medium;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: left;
+    text-align: justify;
+}
+
+.para_five {
+
+    font-family: New York Medium;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: left;
+
+}
+
+.para_five_li {
+    font-family: New York Medium;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: left;
+
+}
+
+.para_six {
+    padding-top: 52px;
+    font-family: New York Medium;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: left;
+
+}
+
+.btn {
+    width: 49.5%;
+    height: 64px;
+    padding: auto;
+    border: none;
+    align-items: center;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.08);
+
+}
+
+.little_text {
+    padding-top: 32px;
+    font-family: SF Pro Text;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    text-align: left;
+}
+
+.second {
+    border-top: 1px dashed #000000;
+    margin-top: 34px;
+    height: 2px;
+    width: 100%;
+}
+
+.para_seven {
+    font-family: New York Small;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    padding-left: 24px;
+}
+
+.profile_div {
+    display: flex;
+    padding-top: 3
+}
+
+.hr_line {
+    height: 2px;
+    background-color: #000000;
+    width: 47.5%;
+}
+
+.div_three {
+    display: flex;
+    align-items: center;
+    margin-bottom: 132px;
+    margin-top: 36px;
+
+}
+
+.eye_image {}
+
+.center_ {
+    font-family: New York Extra Large;
+    font-size: 44px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 15px;
+
+}
+
+.card_div {
+    text-align: center;
+    display: flex;
+    width: 80%;
+    margin: 0px auto;
+    justify-content: space-between;
+    margin-bottom: 15px;
+
+}
+
+.card_image {
+    height: 175px;
+    width: 300px;
+
+}
+
+.card_text {
+
+    font-family: SF Pro Display;
+    font-size: 22px;
+    font-weight: 500;
+    text-align: center;
+    width: 250px;
+
+}
+
+.form {
+    margin: 60px auto 100px auto;
+    width: 50%;
+    height: 313px;
+    border: 1px solid #000000;
+    justify-content: center;
+    align-self: center;
+    flex-direction: column;
+}
+
+.form_heading {
+    font-family: New York Extra Large;
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 60px;
+
+}
+
+.form_para {
+    font-family: SF Pro Text;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    padding-left: 40px;
+    padding-right: 40px;
+
+}
+
+.input_btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.input_form {
+    width: 400px;
+    height: 54px;
+    padding-left: 5px;
+
+}
+
+
+.form_btn {
+    color: #ffffff;
+    background-color: #000000;
+    height: 58px;
+    width: 130px;
+    margin-left: -5px;
+
+}
+
+.footer_tag {
+    width: 100%;
+    height: 360px;
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+}
+
+.footer_div {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.span_bold {
+    padding-top: 8px;
+    font-family: SF Pro Text;
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 28px;
+    text-align: left;
+}
+
+.span_light {
+    padding-top: 8px;
+    font-family: SF Pro Text;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+
+}
+
+.footer_img {
+    margin-top: 100px;
+    margin-bottom: 15px;
+    height: 27px;
+    width: 20%;
+    color: #ffffff;
+}
+
+.footer_para {
+    font-family: New York Small;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+
+.last {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.company {
+    font-family: SF Pro Text;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 27px;
+    text-align: center;
+    padding-left: 5px;
+    padding-right: 5px;
+
+    color: #ffffff;
+}
+
+.copy_right {
+    font-family: SF Pro Text;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 17px;
+    text-align: center;
+
+}
